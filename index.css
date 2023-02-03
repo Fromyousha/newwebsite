@@ -1,0 +1,17 @@
+
+.row ,.row1,.row2,.row3{
+    border: 1px solid black;
+}
+.logonetflix{
+    margin: 5px;
+    padding: 12px;
+}
+.nav{
+    color: white;
+}
+li{
+    color: white;
+}
+body{
+    background-color: rgb(19, 18, 18);
+}
